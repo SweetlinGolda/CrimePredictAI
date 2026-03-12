@@ -89,15 +89,27 @@ The model takes the following features as input:
 
 ### Examples of Predicted Crimes
 
--   Burglary
--   Fraud
--   Assault
--   Vandalism
--   Homicide
--   Cyber Crime
--   Drug Offense
--   Kidnapping
--   Public Intoxication
+ARSON
+ASSAULT
+BURGLARY
+COUNTERFEITING
+CYBERCRIME
+DOMESTIC VIOLENCE
+DRUG OFFENSE
+EXTORTION
+FIREARM OFFENSE
+FRAUD
+HOMICIDE
+IDENTITY THEFT
+ILLEGAL POSSESSION
+KIDNAPPING
+PUBLIC INTOXICATION
+ROBBERY
+SEXUAL ASSAULT
+SHOPLIFTING
+TRAFFIC VIOLATION
+VANDALISM
+VEHICLE - STOLEN
 
 ------------------------------------------------------------------------
 
@@ -183,9 +195,3 @@ http://127.0.0.1:5000
 -   Interactive **dashboards and data visualization**
 -   **Mobile application support**
 
-------------------------------------------------------------------------
-
-## 👩‍💻 Author
-
-Developed as part of an **AI-based project for crime prediction and
-analysis**.
