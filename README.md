@@ -90,25 +90,45 @@ The model takes the following features as input:
 ### Examples of Predicted Crimes
 
 ARSON
+
 ASSAULT
+
 BURGLARY
+
 COUNTERFEITING
+
 CYBERCRIME
+
 DOMESTIC VIOLENCE
+
 DRUG OFFENSE
+
 EXTORTION
+
 FIREARM OFFENSE
+
 FRAUD
+
 HOMICIDE
+
 IDENTITY THEFT
+
 ILLEGAL POSSESSION
+
 KIDNAPPING
+
 PUBLIC INTOXICATION
+
 ROBBERY
+
 SEXUAL ASSAULT
+
 SHOPLIFTING
+
 TRAFFIC VIOLATION
+
 VANDALISM
+
 VEHICLE - STOLEN
 
 ------------------------------------------------------------------------
